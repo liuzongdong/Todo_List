@@ -1,0 +1,11 @@
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.Form1.resources
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.todo_item.resources
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.csproj.GenerateResource.Cache
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\LIU\source\repos\Test\Test\bin\x64\Release\Test.exe.config
+C:\Users\LIU\source\repos\Test\Test\bin\x64\Release\Test.exe
+C:\Users\LIU\source\repos\Test\Test\bin\x64\Release\Test.pdb
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.Properties.Resources.resources
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.exe
+C:\Users\LIU\source\repos\Test\Test\obj\x64\Release\Test.pdb

@@ -1,0 +1,12 @@
+C:\Users\LIU\source\repos\Test\Test\bin\Release\Test.exe.config
+C:\Users\LIU\source\repos\Test\Test\bin\Release\Test.exe
+C:\Users\LIU\source\repos\Test\Test\bin\Release\Test.pdb
+C:\Users\LIU\source\repos\Test\Test\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.Form1.resources
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.todo_item.resources
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.csproj.GenerateResource.Cache
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.exe
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.pdb
+C:\Users\LIU\source\repos\Test\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
